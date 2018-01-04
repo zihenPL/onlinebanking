@@ -1,0 +1,118 @@
+body
+{
+	background-color: #59a53d;
+	font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#topbar
+{
+	margin-top: 20px;
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #ecefe8;
+}
+
+#logo
+{
+	float: left;
+}
+
+#top-logaut
+{
+	float: right;
+}
+
+#top-menu
+{
+	background-color: #303030;
+	color: #ffffff;
+	padding: 10px;
+	width: 1000px;
+	height: 50px;
+}
+
+#all-saldo
+{
+	float: right;
+}	
+
+#przelewy
+{
+	background-color: #2152b2;
+	width: 250px;
+	height: 300px;
+	float: left;
+	color: white;
+	-webkit-box-shadow: 8px 7px 15px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 8px 7px 15px 0px rgba(0,0,0,0.75);
+	box-shadow: 8px 7px 15px 0px rgba(0,0,0,0.75);
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-left: 5x;
+	margin-right: 5x;
+}	
+
+#operacje
+{
+	background-color: #2152b2;
+	width: 250px;
+	height: 300px;
+	float: right;
+	color: white;
+	-webkit-box-shadow: 8px 7px 15px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 8px 7px 15px 0px rgba(0,0,0,0.75);
+	box-shadow: 8px 7px 15px 0px rgba(0,0,0,0.75);
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-left: 5x;
+	margin-right: 5x;
+}	
+
+#name-of-account-owner
+{
+	float: left;
+	font-size: 22px;
+}
+
+#bigtitle
+{
+	font-size: 30px;
+	font-family: 'Pacifico', cursive;
+	margin-left: auto;
+	margin-right: auto;
+}	
+
+.dottedline
+{
+	height: 5px;
+	margin-bottom: 20px;
+	border-bottom: 2px dotted #444444;
+}
+
+.option
+{
+	float: left;
+	min-width: 50px;
+	height: 25px;
+	font-size: 18px;
+	padding: 10px;
+	border-right: 2px dotted #444444;
+	opacity: 0.8;
+}
+
+.option:hover
+{
+	background-color: #000000;
+	cursor: pointer;
+}
+
+
+	
